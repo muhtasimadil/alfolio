@@ -5,10 +5,10 @@
       value: Muhtasim Ahmed
     - name: Languages
       value: English, Bangla, Hindi(Verbal Only)
-    - name: Current Address
+    - name: Location
       value: Dhaka, Bangladesh
     - name: Email
-      value: muhtasim
+      value: muhtasim.ahmed@g.bracu.ac.bd
 
 - title: Education
   type: time_table
@@ -16,13 +16,7 @@
     - title: BS in Computer Science
       institution: Brac University, Dhaka, Bangladesh
       year: Jan, 2021 - Present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
     #- title: Federal teaching diploma
     #  institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #  year: 1900
