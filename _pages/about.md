@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: You only born once, but die everyday. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 'You are only born once, but you die everyday.' #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
