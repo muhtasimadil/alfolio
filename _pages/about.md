@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "invincible". 
 
-Check out my [CV](/cv/) here.
+Check out my [resume](/cv/) here.
