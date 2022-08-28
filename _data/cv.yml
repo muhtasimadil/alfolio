@@ -4,14 +4,14 @@
     - name: Full Name
       value: Muhtasim Ahmed
     - name: Languages
-      value: English, German
+      value: English, Bangla, Hindi(Verbal Only)
 
 - title: Education
   type: time_table
   contents:
     - title: BS in Computer Science
       institution: Brac University, Dhaka, Bangladesh
-      year: Jan, 2021-Present
+      year: Jan, 2021 - Present
       description:
         - Description 1.
         - Description 2.
@@ -92,4 +92,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Running, Thinking about hypothetical scenarios, etc.
