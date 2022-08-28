@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a You are only born once, but you die everyday. </a> #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='blank'>You are only born once, but you die everyday.</a> #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
