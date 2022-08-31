@@ -14,14 +14,14 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
 
-Currently studying Computer Science at Brac University, Dhaka, Bangladesh. Interested in DeFi. 
+Currently studying Computer Science at Brac University, Dhaka, Bangladesh. Very interested in DeFi. 
 
-On my free time, I worry about society and how I can't have any impact. I like to take long walks, occasionally run, and like to think I have good taste in music.
+On my free time, I worry about society and remorse on how I can't have any impact. I like to take long walks, occasionally run, and like to think I have a good taste in music.
 
 Check out my [resume](/resume/) here.
 
