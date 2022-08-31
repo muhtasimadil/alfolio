@@ -21,7 +21,7 @@ Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "A
 
 Currently studying Computer Science at Brac University, Dhaka, Bangladesh. Interested in DeFi. 
 
-On my free time, I worry about society and how I can't have any impact. I like to take long walks, and occasionally run. Like to think I have good taste in music.
+On my free time, I worry about society and how I can't have any impact. I like to take long walks, occasionally run, and like to think I have good taste in music.
 
 Check out my [resume](/resume/) here.
 
