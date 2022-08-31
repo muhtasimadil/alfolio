@@ -1,9 +1,9 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: #/projects/ #link blanked out
 description: A growing collection of your cool projects.
-nav: false
+nav: false #page disabled
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
