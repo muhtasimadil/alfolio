@@ -19,12 +19,11 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
 
-Currently studying Computer Science at Brac University, Dhaka, Bangladesh. Very interested in DeFi. 
+Currently studying Computer Science at Brac University, BD. I'm heavily interested in DeFi. 
 
 On my free time, I worry about society and remorse on how I can't have any impact. I like to take long walks, occasionally run, and like to think I have a good taste in music.
 
-Feel free to reach me on Facebook or through Email. :) <:smiley:>
-
+Feel free to reach me on Facebook or through Email. :) 
 
 
 
