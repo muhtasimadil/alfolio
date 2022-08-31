@@ -1,9 +1,8 @@
 ---
 layout: cv
 permalink: /resume/
-title: Resume
+title: Résumé
 nav: true
 nav_order: 4
 cv_pdf: muhtasim_resume.pdf
 ---
-Click on the icon to download full resume.
