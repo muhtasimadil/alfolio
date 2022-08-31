@@ -110,7 +110,7 @@ blog_name: Muhtasim's Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: My personal blogspace for writing down my thoughts.
 blog_nav: false
-permalink: /blog/:year/:title/
+permalink: # /blog/:year/:title/
 
 # Pagination
 pagination:
