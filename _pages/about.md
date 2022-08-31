@@ -23,6 +23,7 @@ Currently studying Computer Science at Brac University, Dhaka, Bangladesh. Very 
 
 On my free time, I worry about society and remorse on how I can't have any impact. I like to take long walks, occasionally run, and like to think I have a good taste in music.
 
+Feel free to reach me on Facebook or through Email. :smiley:
 
 
 
