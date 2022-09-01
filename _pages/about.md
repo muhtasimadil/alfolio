@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Dhaka, Bangladesh.</p> :smiley: 
+    <p>Dhaka, Bangladesh.</p>  ↗ ➡ 👉
     <p>muhtasim.ahmed@g.bracu.ac.bd</p>
 
 news: true  # includes a list of news items
