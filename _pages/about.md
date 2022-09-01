@@ -17,8 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! \
-This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
+Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
 
 Currently majoring Computer Science at Brac University, BD. Hoping to graduate by 2024 with a good CGPA and some great achievements. I'm heavily interested in DeFi. 
 
