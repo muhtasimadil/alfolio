@@ -72,9 +72,9 @@ github_username: muhtasimadil # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: muhtasimadil # your Twitter handle
 facebook_username: muhtasimadil
-instagram_username: muhtasimadil
+instagram_username: #muhtasimadil
 strava_userid: 
-telegram_username: muhtasimadil
+telegram_username: #muhtasimadil
 linkedin_username: muhtasimadil # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -90,7 +90,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  <a href="https://allmylinks.com/muhtasimadil/">Here</a> are all my profile links related to me. 
+  ⇁ <a href="https://allmylinks.com/muhtasimadil/">Here</a> are the profile links to all the platforms I am/was in. 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
