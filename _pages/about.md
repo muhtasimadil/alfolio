@@ -17,11 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
+Hi! 
+This is Muhtasim Ahmed Adil. Some people call me "Muhtasim", some call me "Adil", some call me "Invincible". 
 
 Currently studying Computer Science at Brac University, BD. I'm heavily interested in DeFi. 
 
-On my free time, I worry about society and remorse on how I can't have any impact. I like to take long walks, occasionally run, and like to think I have a good taste in music.
+On my free time, I worry about society and don't do anything about it. I like to take long walks, occasionally run, and like to think I have a good taste in music.
 
 Feel free to reach me on Facebook or through Email. :) 
 
