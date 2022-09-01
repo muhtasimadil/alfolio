@@ -25,7 +25,7 @@ I started to learn coding when I was in class 9. In my middle school and high sc
 
 I aspire to work as a Software Engineer or a Product Manager for a good product at a good company. I'm still exploring. Before that, I want to pursue master's degree in a CS domain from a North American university(finger crossed). I have a slight wish to do an MBA as well. But plans are plans, they never come out as reality. But hey, who's stopping us from dreaming? Our dreams and hopes keep us alive, for a better life. 
 
-On my free time, I worry about society and don't do anything about it. I like to take long walks, occasionally run, and like to think I have a good taste in music.
+In my spare time, I worry about society and don't do anything about it. I like to take long walks, occasionally run, and like to think I have a good taste in music.
 
 Check out my [resume](/resume/) for details. \
 And feel free to reach me on Facebook or drop a line via Email. :) 
