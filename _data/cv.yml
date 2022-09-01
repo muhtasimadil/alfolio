@@ -6,7 +6,7 @@
     - name: Location
       value: Dhaka, Bangladesh
 
-- title: Education
+#- title: Education
   type: time_table
   contents:
     - title: BS in Computer Science
