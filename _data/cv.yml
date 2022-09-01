@@ -1,17 +1,17 @@
-#- title: General Information
-  type: map
-  contents:
-    - name: Languages
-      value: English, Bangla, Hindi
-    - name: Location
-      value: Dhaka, Bangladesh
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Languages
+#       value: English, Bangla, Hindi
+#     - name: Location
+#       value: Dhaka, Bangladesh
 
-#- title: Education
-  type: time_table
-  contents:
-    - title: BS in Computer Science
-      institution: Brac University, Dhaka, Bangladesh
-      year: Jan, 2021 - Present
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: BS in Computer Science
+#       institution: Brac University, Dhaka, Bangladesh
+#       year: Jan, 2021 - Present
 
     #- title: Federal teaching diploma
     #  institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
@@ -87,7 +87,7 @@
   #       - Description 1.
   #       - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <b>Hobbies:</b> Running, Thinking about hypothetical scenarios, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <b>Hobbies:</b> Running, Thinking about hypothetical scenarios, etc.
