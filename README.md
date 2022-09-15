@@ -1,5 +1,4 @@
 # Goto [muhtasim.xyz](https://muhtasim.xyz)
-<iframe src="https://allmylinks.com/widget/profile/muhtasimadil.html?dark=0&big=1" width="395" height="323.5" style="max-width:100%;display: block; margin: 0; border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
