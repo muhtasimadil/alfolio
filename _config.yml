@@ -73,8 +73,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: muhtasimadil # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: muhtasimadil # your Twitter handle
-facebook_username: muhtasimadil
-instagram_username: #muhtasimadil
 strava_userid: 
 telegram_username: #muhtasimadil
 linkedin_username: muhtasimadil # your LinkedIn user name
@@ -96,8 +94,8 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
+instagram_id: muhtasimadil
+facebook_id: muhtasimadil
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
@@ -203,7 +201,7 @@ defaults:
   - scope:
       path: "assets/**/*.*"
     values:
-      sitemap: false
+      sitemap: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
